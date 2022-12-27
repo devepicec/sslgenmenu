@@ -2,8 +2,7 @@
 
 ```shell
 sudo su
-mkdir /genssl
-cd /genssl
 git clone https://github.com/devepicec/sslgenmenu.git
+cd /gensslmenu
 chmod 770 gen.sh
 ```
